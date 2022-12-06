@@ -1,9 +1,11 @@
-<div id="header" align="center">
-    <h1 align="center">Hello there! 👋</h1>
-    <h3 align="center">My name is Braian Camilo Piedrahita and i am a Systems and Computation Engineering Student from the University of Quindío. I'm a passionate backend developer from Colombia
+<div id="header">
+    <h1>Hello there! 👋</h1>
+    <h3>My name is Braian Camilo Piedrahita and i am a Systems and Computation Engineering Student from the University of Quindío. I'm a passionate backend developer from Colombia
         and i'm very eager to continue learning from the world of Information Technology.
     </h3>
 </div>
+
+ <hr>
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
@@ -20,6 +22,8 @@
       </div>
 </div>
 
+ <hr>
+ 
 <div align="left">
     <h3> Frameworks:</h3>
     <div>
@@ -27,6 +31,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       </div>
 </div>
+
+ <hr>
 
 ### 📊 My Stats:
 
